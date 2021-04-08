@@ -1,0 +1,4 @@
+﻿  FtoCfunction.c
+D:\V_S_\代码练习March\0408\Exercise10\FtoCfunction.c(17,15): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\V_S_\代码练习March\0408\Exercise10\FtoCfunction.c(24,36): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  Exercise10.vcxproj -> D:\V_S_\代码练习March\0408\Exercise10\Debug\Exercise10.exe
