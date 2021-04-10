@@ -1,0 +1,6 @@
+﻿  blanktab.c
+D:\V_S_\代码练习March\0410\Exercise13\blanktab.c(5,21): warning C4028: 形参 1 与声明不同
+D:\V_S_\代码练习March\0410\Exercise13\blanktab.c(5,21): warning C4273: “remove”: dll 链接不一致
+D:\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(369,26): message : 参见“remove”的前一个定义
+    正在创建库 D:\V_S_\代码练习March\0410\Exercise13\Debug\Exercise13.lib 和对象 D:\V_S_\代码练习March\0410\Exercise13\Debug\Exercise13.exp
+  Exercise13.vcxproj -> D:\V_S_\代码练习March\0410\Exercise13\Debug\Exercise13.exe
